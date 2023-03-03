@@ -82,3 +82,8 @@ http://localhost:3000/
 
 ## nest g service posts
 创建服务类
+
+
+## prisma
+# npx prisma studio
+可视化操作
